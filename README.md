@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishita Pathak</h1>
 <h2 align="center"> (aka "Seraphee")</h2>
-<h3 align="center">Data Enthusiast | Analytics Developer | HackWithHer 🚀</h3>
+<h3 align="center">Data Enthusiast | Analytics Developer 🚀</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Analytics+Learner;Snowflake+%7C+SQL+%7C+Python;Building+Data+Driven+Solutions;Hackathon+Explorer" />
@@ -76,12 +76,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HackWithHer&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishita-Pathak&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HackWithHer&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HackWithHer&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nishita-Pathak&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishita-Pathak&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HackWithHer&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishita-Pathak&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Nishita-Pathak">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
