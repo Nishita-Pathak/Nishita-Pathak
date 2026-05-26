@@ -3,7 +3,7 @@
 <h3 align="center">Data Enthusiast | Analytics Developer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Analytics+Learner;Snowflake+%7C+SQL+%7C+Python;Building+Data+Driven+Solutions;Hackathon+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Analytics+Learner;Snowflake+%7C+SQL+%7C+Python;Building+Data+Driven+Solutions;Data Engineer" />
 </p>
 
 ---
